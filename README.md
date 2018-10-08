@@ -1,3 +1,6 @@
+Please visit: https://shilpanwaterloo.wixsite.com/profile for a complete highlight of projects.
+
+All code is posted on Github.
 # Embedded
 Includes School Projects and Work Highlights
 Embedded Systems Projects 
