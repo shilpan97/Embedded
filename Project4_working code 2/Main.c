@@ -435,7 +435,7 @@ __task void init (void) {
 	  GLCD_Clear(Black);
 	  GLCD_SetBackColor(White);
 	  GLCD_DisplayString(5,1, __FI, " FRUIT NINJA   ");
-	  GLCD_DisplayString(6,1, __FI, "Tony & Shilpan");
+	  GLCD_DisplayString(6,1, __FI, "Shilpan");
 	 
 	  os_dly_wait (400);	
  	  GLCD_Clear(Black);	
