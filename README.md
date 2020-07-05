@@ -3,23 +3,27 @@ All code is posted on Github.
 Includes School Projects and Work Highlights
 
 
-# Applied AI/ML Projects for Self-Driving Vehicles in Python
-1. Lane Detection
-2. Implementing a two-layer fully connected neural network
-3. Training a deep network for semantic segmentation
-4. Car Detection - YOLO v2
-5. 3D Occupancy Grid with ibeo Lux Laser Scanner
-6. Kalman Filters
-7. Motion Planning
-8. Car Simulation on Highway including Lane Following on Unity 3D (Path Planning) in C++
-9. Breast-Cancer-Diagnosis - This project trained a KNN classifier to distinguish patients with malignant or benign breast cancer.
+# Applied Machine Learning / Computer Vision in Python
+Autonomous driving system overview and Machine Learning  - Supervised and Unsupervised Learning 
+1. Computer vision basics
+2. Deep learning for perception;
+3. Motion modeling and state estimation;
+4. Localization and mapping; 
+5. Object tracking; 
+6. Behavioral planning; path planning and vehicle control;
+7. Safety and verification and validation; 
+8. Adoption and impact.
+
 
 # Image Processing in MATLAB
-1. Image manipulation techniques such as digital zooming, spatial filtering, and point operations for image enhancement.
-2. Noise generation & reduction, fundamen- tals of image enhancement, and restoration concepts
-3. Image restoration in frequency domain
-4. Frequency domain filters and adaptive spatial domain filters- Inverse filtering and Weiner filtering and Lee filter were compared.
-5. Image Compression(DCT transform), K-mean clustering, Convolutional Neural Networks(CNN).
+1. Introduction and Human Visual System 
+2. Point Operations
+3. Spatial Filters
+4. Spatial-Frequency Filters
+5. Restoration
+6. Color Image Processing
+7. Segmentation
+8. Image and Video Compression
 
 # Embedded Systems
 1. Path Planning robot(PCB design) - Line_Following_Robot Folder
