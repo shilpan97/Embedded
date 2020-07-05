@@ -15,7 +15,7 @@ All code is posted on Github.
 1. MoBIUS: An Alternative to Laptop Touchpads - FYDP Folder
 
 # Algorithms / Data Structure 
-1. Interval Tree Implementation 
+1. Interval Tree Implementation in Python
 
 # Radio Frequecny (RF) Projects
 1. 5 GHz Wi-Fi Transmit Network Tuning 
