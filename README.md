@@ -12,8 +12,14 @@ All code is posted on Github.
 8. Car Simulation on Highway including Lane Following on Unity 3D (Path Planning) in C++
 9. Breast-Cancer-Diagnosis - This project trained a KNN classifier to distinguish patients with malignant or benign breast cancer.
 
-# Algorithms / Data Structure 
-1. Interval Tree Implementation in Python
+# Algorithms / Data Structure Implementation
+1. Interval Tree
+2. AVL Tree
+3. Binary Search Tree
+4. Priority Queues
+5. Circular Queues
+6. Dynamic Stack
+
 
 # Embedded
 Includes School Projects and Work Highlights
