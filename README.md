@@ -16,6 +16,7 @@ All code is posted on Github.
 
 # Algorithms / Data Structure 
 1. Interval Tree Implementation in Python
+2. Breast-Cancer-Diagnosis - This project trained a KNN classifier to distinguish patients with malignant or benign breast cancer.
 
 # Radio Frequecny (RF) Projects
 1. 5 GHz Wi-Fi Transmit Network Tuning 
