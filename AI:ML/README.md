@@ -1,4 +1,4 @@
-# Applied AI/ML Projects for Self-Driving Vehicles in Python
+# Completed AI/ML Projects for Self-Driving Vehicles in Python
 1. Lane Detection
 2. Implementing a two-layer fully connected neural network
 3. Training a deep network for semantic segmentation
