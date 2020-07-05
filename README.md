@@ -1,7 +1,7 @@
 
 All code is posted on Github.
 
-# AI/ML Projects for Self-Driving Vehicles 
+# Applied AI/ML Projects for Self-Driving Vehicles in Python
 1. Lane Detection
 2. Implementing a two-layer fully connected neural network
 3. Training a deep network for semantic segmentation
@@ -9,19 +9,11 @@ All code is posted on Github.
 5. 3D Occupancy Grid with ibeo Lux Laser Scanner
 6. Kalman Filters
 7. Motion Planning
-8. Car Simulation on Highway including Lane Following on Unity 3D (Path Planning)
-
-# Fourth-Year-Design-Project (FYDP)
-1. MoBIUS: An Alternative to Laptop Touchpads - FYDP Folder
+8. Car Simulation on Highway including Lane Following on Unity 3D (Path Planning) in C++
+9. Breast-Cancer-Diagnosis - This project trained a KNN classifier to distinguish patients with malignant or benign breast cancer.
 
 # Algorithms / Data Structure 
 1. Interval Tree Implementation in Python
-2. Breast-Cancer-Diagnosis - This project trained a KNN classifier to distinguish patients with malignant or benign breast cancer.
-
-# Radio Frequecny (RF) Projects
-1. 5 GHz Wi-Fi Transmit Network Tuning 
-2. Band Pass Filter Design
-3. Gunshot Detection & Location System Hardware Challenge
 
 # Embedded
 Includes School Projects and Work Highlights
@@ -32,3 +24,10 @@ Embedded Systems Projects
 4. IMU/Sensor Fusion Development(C Project) - mpu-sensor-threads Folder
 5. Memory Allocation Algorithm Code(C Project) - Half_Fit_Memory_Allocation
 
+# Radio Frequecny (RF) Projects
+1. 5 GHz Wi-Fi Transmit Network Tuning 
+2. Band Pass Filter Design
+3. Gunshot Detection & Location System Hardware Challenge
+
+# Capstone (FYDP)
+1. MoBIUS: An Alternative to Laptop Touchpads - FYDP Folder
