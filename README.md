@@ -19,3 +19,13 @@ Embedded Systems Projects
 3. Embedded Game Development (C Project) - Fruit_Ninja_Game Folder
 4. IMU/Sensor Fusion Development(C Project) - mpu-sensor-threads Folder
 5. Memory Allocation Algorithm Code(C Project) - Half_Fit_Memory_Allocation
+
+# Algorithms / Data Structure 
+
+1. Interval Tree Implemnetation 
+
+# Radio Frequecny (RF) Projects
+
+1. Band Pass Filter Design
+2. 5 GHz Wi-Fi Transmit Network Tuning
+
