@@ -1,5 +1,7 @@
 
 All code is posted on Github.
+Includes School Projects and Work Highlights
+
 
 # Applied AI/ML Projects for Self-Driving Vehicles in Python
 1. Lane Detection
@@ -12,9 +14,14 @@ All code is posted on Github.
 8. Car Simulation on Highway including Lane Following on Unity 3D (Path Planning) in C++
 9. Breast-Cancer-Diagnosis - This project trained a KNN classifier to distinguish patients with malignant or benign breast cancer.
 
-# Embedded
-Includes School Projects and Work Highlights
-Embedded Systems Projects 
+# Image Processing 
+1. Image manipulation techniques such as digital zooming, spatial filtering, and point operations for image enhancement.
+2. Noise generation & reduction, fundamen- tals of image enhancement, and restoration concepts
+3. Image restoration in frequency domain
+4. Frequency domain filters and adaptive spatial domain filters- Inverse filtering and Weiner filtering and Lee filter were compared.
+5. Image Compression(DCT transform), K-mean clustering, Convolutional Neural Networks(CNN).
+
+# Embedded Systems
 1. Path Planning robot(PCB design) - Line_Following_Robot Folder
 2. Material Handling Proof of Concept Robot(Report) - Making_Cool_Robots_Reports Folder
 3. Embedded Game Development (C Project) - Fruit_Ninja_Game Folder
