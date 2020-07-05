@@ -5,7 +5,7 @@ All code is posted on Github.
 1. Lane Detection
 2. Implementing a two-layer fully connected neural network
 3. Training a deep network for semantic segmentation
-4. Car Detection -YOLO v2
+4. Car Detection - YOLO v2
 5. 3D Occupancy Grid with ibeo Lux Laser Scanner
 6. Kalman Filters
 7. Motion Planning
