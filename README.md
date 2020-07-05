@@ -32,7 +32,7 @@ Autonomous driving system overview and Machine Learning  - Supervised and Unsupe
 4. IMU/Sensor Fusion Development(C Project) - mpu-sensor-threads Folder
 5. Memory Allocation Algorithm Code(C Project) - Half_Fit_Memory_Allocation
 
-# Radio Frequecny (RF) Projects - ADS / QUACS Simulations
+# Radio Frequecny (RF) Projects - ADS / Qucs Simulations
 1. 5 GHz Wi-Fi Transmit Network Tuning 
 2. Band Pass Filter Design
 3. Gunshot Detection & Location System Hardware Challenge
