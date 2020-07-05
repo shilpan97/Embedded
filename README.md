@@ -2,8 +2,8 @@
 All code is posted on Github.
 
 # AI/ML for Self-Driving Vehicles 
-A1. A1 - Lane Detection
-A2. A2 -  Implementing a two-layer fully connected neural network
+1. A1 - Lane Detection
+2. A2 -  Implementing a two-layer fully connected neural network
 3. A3 - Training a deep network for semantic segmentation
 4. A4 - Car Detection -YOLO v2
 5. A5 - 3D Occupancy Grid with ibeo Lux Laser Scanner
