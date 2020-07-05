@@ -29,5 +29,5 @@ Embedded Systems Projects
 2. Band Pass Filter Design
 3. Gunshot Detection & Location System Hardware Challenge
 
-# Fourth-Year-Design-Project (FYDP)
+# Capstone (FYDP)
 1. MoBIUS: An Alternative to Laptop Touchpads - FYDP Folder
