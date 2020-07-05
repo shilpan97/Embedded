@@ -6,13 +6,13 @@ Includes School Projects and Work Highlights
 # Applied Machine Learning / Computer Vision in Python
 Autonomous driving system overview and Machine Learning  - Supervised and Unsupervised Learning 
 1. Computer vision basics
-2. Deep learning for perception;
-3. Motion modeling and state estimation;
-4. Localization and mapping; 
-5. Object tracking; 
-6. Behavioral planning; path planning and vehicle control;
-7. Safety and verification and validation; 
-8. Adoption and impact.
+2. Deep learning for perception
+3. Motion modeling and state estimation
+4. Localization and mapping
+5. Object tracking
+6. Behavioral planning; path planning and vehicle control
+7. Safety and verification and validation 
+8. Adoption and impact
 
 
 # Image Processing in MATLAB
