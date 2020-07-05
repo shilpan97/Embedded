@@ -14,7 +14,7 @@ Includes School Projects and Work Highlights
 8. Car Simulation on Highway including Lane Following on Unity 3D (Path Planning) in C++
 9. Breast-Cancer-Diagnosis - This project trained a KNN classifier to distinguish patients with malignant or benign breast cancer.
 
-# Image Processing 
+# Image Processing in MATLAB
 1. Image manipulation techniques such as digital zooming, spatial filtering, and point operations for image enhancement.
 2. Noise generation & reduction, fundamen- tals of image enhancement, and restoration concepts
 3. Image restoration in frequency domain
