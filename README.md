@@ -11,6 +11,16 @@ All code is posted on Github.
 7. Motion Planning
 8. Car Simulation on Highway including Lane Following on Unity 3D (Path Planning)
 
+# Fourth-Year-Design-Project (FYDP)
+1. MoBIUS: An Alternative to Laptop Touchpads - FYDP Folder
+
+# Algorithms / Data Structure 
+1. Interval Tree Implemnetation 
+
+# Radio Frequecny (RF) Projects
+1. Band Pass Filter Design
+2. 5 GHz Wi-Fi Transmit Network Tuning
+
 # Embedded
 Includes School Projects and Work Highlights
 Embedded Systems Projects 
@@ -19,13 +29,4 @@ Embedded Systems Projects
 3. Embedded Game Development (C Project) - Fruit_Ninja_Game Folder
 4. IMU/Sensor Fusion Development(C Project) - mpu-sensor-threads Folder
 5. Memory Allocation Algorithm Code(C Project) - Half_Fit_Memory_Allocation
-
-# Algorithms / Data Structure 
-
-1. Interval Tree Implemnetation 
-
-# Radio Frequecny (RF) Projects
-
-1. Band Pass Filter Design
-2. 5 GHz Wi-Fi Transmit Network Tuning
 
