@@ -25,19 +25,19 @@ Autonomous driving system overview and Machine Learning  - Supervised and Unsupe
 7. Segmentation
 8. Image and Video Compression
 
-# Embedded Systems
+# Embedded Systems in C/C++
 1. Path Planning robot(PCB design) - Line_Following_Robot Folder
 2. Material Handling Proof of Concept Robot(Report) - Making_Cool_Robots_Reports Folder
 3. Embedded Game Development (C Project) - Fruit_Ninja_Game Folder
 4. IMU/Sensor Fusion Development(C Project) - mpu-sensor-threads Folder
 5. Memory Allocation Algorithm Code(C Project) - Half_Fit_Memory_Allocation
 
-# Radio Frequecny (RF) Projects
+# Radio Frequecny (RF) Projects - ADS / QUACS Simulations
 1. 5 GHz Wi-Fi Transmit Network Tuning 
 2. Band Pass Filter Design
 3. Gunshot Detection & Location System Hardware Challenge
 
-# Capstone (FYDP)
+# Capstone (FYDP) 
 1. MoBIUS: An Alternative to Laptop Touchpads - FYDP Folder
 
 # Algorithms / Data Structure Implementation in Python/C++
