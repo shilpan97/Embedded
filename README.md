@@ -29,7 +29,7 @@ Embedded Systems Projects
 # Capstone (FYDP)
 1. MoBIUS: An Alternative to Laptop Touchpads - FYDP Folder
 
-# Algorithms / Data Structure Implementation
+# Algorithms / Data Structure Implementation in Python/C++
 1. Interval Tree
 2. AVL Tree
 3. Binary Search Tree
