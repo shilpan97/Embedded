@@ -5,15 +5,12 @@ All code is posted on Github.
 1. Lane Detection
 2. Implementing a two-layer fully connected neural network
 3. Training a deep network for semantic segmentation
-4. Car Detection -YOLO v2
+4. Car Detection - YOLO v2
 5. 3D Occupancy Grid with ibeo Lux Laser Scanner
 6. Kalman Filters
 7. Motion Planning
 8. Car Simulation on Highway including Lane Following on Unity 3D (Path Planning) in C++
 9. Breast-Cancer-Diagnosis - This project trained a KNN classifier to distinguish patients with malignant or benign breast cancer.
-
-# Algorithms / Data Structure 
-1. Interval Tree Implementation in Python
 
 # Embedded
 Includes School Projects and Work Highlights
@@ -31,3 +28,11 @@ Embedded Systems Projects
 
 # Capstone (FYDP)
 1. MoBIUS: An Alternative to Laptop Touchpads - FYDP Folder
+
+# Algorithms / Data Structure Implementation in Python/C++
+1. Interval Tree
+2. AVL Tree
+3. Binary Search Tree
+4. Priority Queues
+5. Circular Queues
+6. Dynamic Stack
