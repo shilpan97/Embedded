@@ -14,7 +14,7 @@ Autonomous driving system overview and Machine Learning  - Supervised and Unsupe
 7. Safety and verification and validation 
 8. Adoption and impact
 
-In addition, I have completed Applied ML in Python Specialization from University of Michigan from Coursera
+In addition, I have completed Applied ML in Python Specialization from University of Michigan thru Coursera
 
 
 # Image Processing in MATLAB
