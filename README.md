@@ -41,6 +41,7 @@ In addition, I have completed Applied ML in Python Specialization from Universit
 
 # Capstone (FYDP) 
 1. MoBIUS: An Alternative to Laptop Touchpads - FYDP Folder
+https://lawu103.wixsite.com/mobius
 
 # Algorithms / Data Structure Implementation in Python/C++
 1. Interval Tree
