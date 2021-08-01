@@ -1,6 +1,4 @@
-
-All code is posted on Github.
-Includes School Projects and Work Highlights
+ Projects and Work Highlights
 
 
 # Applied Machine Learning / Computer Vision in Python
